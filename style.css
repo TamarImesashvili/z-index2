@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    
+    background-color: rgba(0, 0, 0, 1);
+    
+}
+
+.box1 {
+    width: 33.333333%;
+}
+.box2 {
+    width: 33.333333%;
+    
+}
+.box3 {
+    width: 33.333333%;
+    z-index: 6;
+}
+p {
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    line-height: 14.52px;
+    margin-left: 35%;
+    margin-top: 365px;
+    position: absolute;
+}
+.container {
+    display: flex;
+    position: absolute;
+    top: 0;
+}
